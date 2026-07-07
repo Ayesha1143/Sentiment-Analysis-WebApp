@@ -263,21 +263,6 @@ Evaluation Metrics
 
 ---
 
-# 📸 Project Demo
-
-Add screenshots here.
-
-Example:
-
-```
-screenshots/
-    home.png
-    prediction.png
-    swagger.png
-```
-
----
-
 # 🔮 Future Improvements
 
 - Deep Learning Models (LSTM/BERT)
