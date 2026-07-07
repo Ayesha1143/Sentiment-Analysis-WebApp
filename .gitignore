@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# NLTK data (downloaded automatically, no need to commit)
+nltk_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
